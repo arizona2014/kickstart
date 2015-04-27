@@ -10,3 +10,6 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+=======
+Kickstart Your AngularJS Development with Yeoman, Grunt and Bower
+
